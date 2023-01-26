@@ -1,4 +1,4 @@
-# KamCode - Hamburger Menu using CSS!
+# KamCode - Login Card using CSS!
 
 How to create a beautiful & responsive login card using HTML & CSS
 
